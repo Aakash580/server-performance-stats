@@ -19,5 +19,5 @@ A lightweight and easy-to-use Bash script to monitor basic server performance on
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Aakash580/server-performance-stats.git
+git clone https://github.com/Aakash580/server-performance-stats
 cd server-performance-stats
