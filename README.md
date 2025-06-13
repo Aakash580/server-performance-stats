@@ -13,7 +13,7 @@ A lightweight and easy-to-use Bash script to monitor basic server performance on
 - ✅ Network bandwidth usage
 - ✅ Top 5 memory-consuming processes
 
----
+-----------------------------------------------------------------------------------------------------
 
 ## 🚀 Getting Started
 
