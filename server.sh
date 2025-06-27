@@ -3,9 +3,9 @@
 # Script: server_stats.sh
 # Description: Collects and displays basic server performance statistics
 
-echo "====================================="
+echo "=========================================="
 echo "     SERVER PERFORMANCE STATS"
-echo "====================================="
+echo "=========================================="
 
 # Uptime
 echo -e "\n🕒 UPTIME:"
